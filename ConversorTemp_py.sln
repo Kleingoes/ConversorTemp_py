@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ConversorTemp_py", "ConversorTemp_py\ConversorTemp_py.pyproj", "{392C5316-1759-4DD7-B9CD-F4E2F88919A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{392C5316-1759-4DD7-B9CD-F4E2F88919A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{392C5316-1759-4DD7-B9CD-F4E2F88919A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {830AB940-D71C-4267-A15C-5863E12B5CE5}
+	EndGlobalSection
+EndGlobal
